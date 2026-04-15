@@ -19,11 +19,11 @@ The final output is stored in a structured CSV file for easy analysis and decisi
 
 ##  Features
 
-✅ Resume data extraction (skills, experience, education)
-✅ Candidate scoring system
-✅ Ranking based on job relevance
-✅ Structured CSV output
-✅ Easy integration with HR workflows
+ Resume data extraction (skills, experience, education)
+ Candidate scoring system
+ Ranking based on job relevance
+ Structured CSV output
+ Easy integration with HR workflows
 
 ---
 
